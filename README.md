@@ -34,6 +34,14 @@ https://drive.google.com/file/d/1yeN1-h1r2QCAgRhchjHdP_fxlPY3alq9/view?usp=shari
 ## Download APK
 https://drive.google.com/file/d/1N7ghcKuYTdqYdbIYwFj4K72f_TlRwCi6/view?usp=drive_link
 
+## Imagens do aplicativo
+
+![Tela Inicial](images/TelaInicial.png)
+
+![Tela de Correção](images/TelaCalculo.png)
+
+![Tela de Correção](images/TelaResultados.png)
+
 ## Integrantes do grupo
 - Cauan Henrique Nardini de Lima - (Responsável pela criação do aplicativo)
 - Gabriel Félix de Melo Cruz
