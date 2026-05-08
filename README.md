@@ -20,6 +20,9 @@ Desenvolver uma funcionalidade computacional para auxiliar técnicos e operadore
 • Avaliar os resultados obtidos com a utilização da ferramenta, considerando a redução de erros, tempo de operação e facilidade de uso;  
 • Propor melhorias no processo produtivo com base nos resultados obtidos. 
 
+## Documento Arquivo
+https://drive.google.com/file/d/1foTB_qu4qLEXtGyquaOEYptsARdXM2Sj/view?usp=drive_link (Em Andamento)
+
 ## Tecnologias utilizadas
 - JAVA
 
