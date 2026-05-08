@@ -6,7 +6,9 @@ Aplicativo desenvolvido em JAVA com o objetivo de auxiliar técnicos e operadore
 O sistema busca facilitar cálculos e reduzir dificuldades operacionais no controle químico das bebidas.
 
 ## Desenvolvimento
-### Objetivo Geral Desenvolver uma funcionalidade computacional para auxiliar técnicos e operadores no processo de correção dos parâmetros de graduação alcoólica e concentração de sacarose em bebidas, visando melhorar a gestão da qualidade, reduzir erros operacionais e aumentar a eficiência do processo produtivo. 
+
+##Objetivo Geral 
+Desenvolver uma funcionalidade computacional para auxiliar técnicos e operadores no processo de correção dos parâmetros de graduação alcoólica e concentração de sacarose em bebidas, visando melhorar a gestão da qualidade, reduzir erros operacionais e aumentar a eficiência do processo produtivo. 
 
 ### Objetivos Específicos 
 • Analisar o processo produtivo de bebidas, com foco nas etapas de correção de graduação alcoólica e concentração de sacarose;  
