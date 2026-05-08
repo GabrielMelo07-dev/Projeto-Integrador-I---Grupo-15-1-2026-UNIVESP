@@ -7,10 +7,10 @@ O sistema busca facilitar cálculos e reduzir dificuldades operacionais no contr
 
 ## Desenvolvimento
 
-##Objetivo Geral 
+## Objetivo Geral 
 Desenvolver uma funcionalidade computacional para auxiliar técnicos e operadores no processo de correção dos parâmetros de graduação alcoólica e concentração de sacarose em bebidas, visando melhorar a gestão da qualidade, reduzir erros operacionais e aumentar a eficiência do processo produtivo. 
 
-### Objetivos Específicos 
+## Objetivos Específicos 
 • Analisar o processo produtivo de bebidas, com foco nas etapas de correção de graduação alcoólica e concentração de sacarose;  
 • Identificar as principais dificuldades enfrentadas por técnicos e operadores durante a execução dos cálculos de correção;  
 • Levantar os requisitos necessários para o desenvolvimento de uma ferramenta computacional de apoio ao processo;  
